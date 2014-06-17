@@ -5,4 +5,5 @@
     <string name="location">Enter URL</string>
     <string name="runAsyncTask">Get Image (Async)</string>
     <string name="resetImage">Reset Image</string>
+    <string name="urlHint">www.someimage.com</string>
 </resources>

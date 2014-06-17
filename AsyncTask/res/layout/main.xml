@@ -22,7 +22,8 @@
             android:layout_width="fill_parent"
             android:layout_weight="1"
             android:inputType="text|textMultiLine"
-            android:hint="@string/defaultURL" />
+            android:hint="@string/urlHint"
+            android:text="@string/defaultURL"/>
     </LinearLayout>
 
     <LinearLayout
