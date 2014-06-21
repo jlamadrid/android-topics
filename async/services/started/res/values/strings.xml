@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DownloadService</string>
+    <string name="defaultURL">http://static.ddmcdn.com/gif/storymaker-best-hubble-space-telescope-images-20092-514x268.jpg</string>
+    <string name="location">Enter URL</string>
+    <string name="runAsyncTask">Get Image (Service)</string>
+    <string name="resetImage">Reset Image</string>
+    <string name="urlHint">www.someimage.com</string>
+</resources>

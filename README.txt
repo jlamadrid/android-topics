@@ -1,0 +1,1 @@
+async - apps related to asynchronous topics, e.g. AsyncTask, Threads, Runnables, background processing, long duration operations, etc
